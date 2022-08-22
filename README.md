@@ -14,3 +14,7 @@ source='local')  # local repo
 ```python
 model.conf = 0.85
 ```
+
+### 예시
+![시연1](https://user-images.githubusercontent.com/85327744/185901917-4adb8c1d-2ada-4b10-91f8-adf6585a3a73.JPG)
+![시연4](https://user-images.githubusercontent.com/85327744/185901943-9b268339-86aa-4055-b63c-3f3e7e30fd18.JPG)
