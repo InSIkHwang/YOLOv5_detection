@@ -3,6 +3,7 @@
 
 ## 사용법
 * GUI.py를 받은 후, 본인이 적용시킬 .pt 파일의 경로로 수정하셔야 합니다.
+* 기본 설정이 2개의 웹캠을 실행 시킵니다. 하나의 웹캠만 사용하실 경우 2번째 웹캠 영상을 처리하는 구문의 주석처리가 필요합니다.
 ```python
 # Model
 model = torch.hub.load('E:/colab/yolov5','custom', path='E:/colab/yolov5/runs/train/result_test_05_04/weights/best.pt',
